@@ -13,7 +13,7 @@ export default function Home() {
         </p>
 
         <div className="button-group">
-          <a href="#analysis" className="primary-button">
+          <a href="/analysis" className="primary-button">
             Start Analysis
           </a>
           <a href="#features" className="secondary-button">
